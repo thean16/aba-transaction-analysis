@@ -1,6 +1,10 @@
 # ABA Transaction Analysis
 
-Exploratory data analysis of ABA Bank payment notifications exported from Telegram. Parses raw chat messages into a structured dataset and produces revenue, customer, and payment insights.
+Exploratory data analysis of ABA Bank payment notifications exported from Telegram. Parses raw chat messages into a structured dataset, then surfaces revenue trends, customer spending patterns, and payment behavior insights through Python and Power BI.
+
+**🔧 Built with:** Python · Pandas · Regex · Jupyter Notebook · Power BI
+
+> **Note:** Customer names shown in the dashboard are from a real personal dataset and are included for demonstration purposes only. The raw data and Power BI source file are excluded from version control to protect this information.
 
 ##  Dashboard Preview
 
