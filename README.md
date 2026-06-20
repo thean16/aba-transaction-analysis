@@ -2,6 +2,10 @@
 
 Exploratory data analysis of ABA Bank payment notifications exported from Telegram. Parses raw chat messages into a structured dataset and produces revenue, customer, and payment insights.
 
+## 📊 Dashboard Preview
+
+![ABA Transaction Dashboard](sell_analysis.pdf)
+
 ## Dataset
 
 | Metric | Value |
