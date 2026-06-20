@@ -1,0 +1,18 @@
+# Raw data with real personal/financial info — never commit
+
+telegram_aba_data.json
+aba_transactions.csv
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
